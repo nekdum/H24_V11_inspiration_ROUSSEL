@@ -1,2 +1,4 @@
 # Thomas Roussel
-# semaine 01/photo_thomas.jpg
+
+![photo](semaine 01/photo_thomas.jpg)
+
