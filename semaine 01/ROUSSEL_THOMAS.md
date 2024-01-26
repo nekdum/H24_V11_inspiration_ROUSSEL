@@ -1,2 +1,2 @@
 # Thomas Roussel
-semaine 01/photo_thomas.jpg
+# semaine 01/photo_thomas.jpg
