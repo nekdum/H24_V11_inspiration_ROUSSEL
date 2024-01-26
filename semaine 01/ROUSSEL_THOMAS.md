@@ -1,4 +1,4 @@
 # Thomas Roussel
 
-![photo](semaine 01/photo_thomas.jpg)
+![photo](photo_thomas.jpg)
 
