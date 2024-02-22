@@ -13,8 +13,6 @@ c'est vraiment plus intéraissent de voir que l'expostion
 
 ![photo](media/bug_matrix.jpg)
 
-![photo](media/free_art.jpg)
-
 ![photo](media/get_sturdy.jpg)
 
 ![photo](media/pratique_engendré.jpg)
