@@ -8,5 +8,18 @@ moi qui pensait que l'exposition allait juste parler de la danse et des remsembl
 se combiner d'une certaine façon a ce que toute l'expostion d'une façon conhérente et spéciale juste le fait que toute les style ont pus s'éprimer d'une certaine façon et qu'on réalise 
 a la fin qui ce resemble plus qu'on le pensait. 
 c'est vraiment plus intéraissent de voir que l'expostion 
+## **photo exposition**
+![photo](media/The_circle.jpg)
+
+![photo](media/bug_matrix.jpg)
+
+![photo](media/free_art.jpg)
+
+![photo](media/get_sturdy.jpg)
+
+![photo](media/pratique_engendré.jpg)
+
+![photo](media/wallpaper_engine.jpg)
+
 
 
