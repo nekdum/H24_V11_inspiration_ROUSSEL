@@ -1,5 +1,5 @@
 # génération MTL #
-### college montmorency ###
+### musée pointe-à-callière ###
 
 voici mon expérience a l'exposition *génération MTL*.
 
