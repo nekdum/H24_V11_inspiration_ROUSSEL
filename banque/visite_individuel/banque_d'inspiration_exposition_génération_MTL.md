@@ -3,4 +3,6 @@
 
 voici mon expérience a l'exposition *génération MTL*.
 
-![photo](media/The_circle.jpg)
+![photo](image/canadien_mtl.jpeg)
+# expérience proposer #
+L'expérience proposer au musée était très mémorable 
