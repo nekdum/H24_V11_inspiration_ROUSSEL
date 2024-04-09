@@ -3,4 +3,4 @@
 
 voici mon expérience a l'exposition *génération MTL*.
 
-<img scr="image/canadien_mtl.jpeg">
+![photo](media/The_circle.jpg)
