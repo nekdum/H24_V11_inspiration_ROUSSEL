@@ -18,3 +18,5 @@ elle montrait beaucoup d'aspect du multimedia avec toute c'est écran triangulai
 l'exposition ***génération MTL*** parlait de l'histoire de montréal et des différente génération ou habitant qui on vécu a montreal.
 une exposition qui ma beaucoup fait penser a mais cour d'histoire au secondaire 
 
+<img src="image/main_mtl.jpeg">
+
