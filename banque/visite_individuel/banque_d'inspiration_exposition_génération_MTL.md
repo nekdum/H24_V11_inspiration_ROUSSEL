@@ -20,3 +20,9 @@ une exposition qui ma beaucoup fait penser a mais cour d'histoire au secondaire
 
 <img src="image/main_mtl.jpeg" width="500" ><img src="image/map_mtl.jpeg" width="500" >
 
+cette exposition a parler de l'époque des autochtone et les ou l'histoire de la révolution industriel et les différente culture et peuple qui on vécu dans les rue de motréal.
+que ça soit la culture sprotive ou les petit marchand des rue de montréal. ***génération MTL*** parle de toute les petit détail de la ville et des nobreux peuple qui on décider d'habiter les rue de cette merveilleuse ville.
+
+
+
+
