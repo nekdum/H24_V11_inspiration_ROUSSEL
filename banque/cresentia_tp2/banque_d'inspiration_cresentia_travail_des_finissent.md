@@ -5,5 +5,5 @@ Voici mon expérience a l'exposition ***Crescentia*** et de voir le projet des f
 
 
 # Rhizomatique #
-<img src="banque/cresentia_tp2/media/photo/rhizomatique.png">
+<img src="banque/cresentia_tp2/media/photo/rhizomatique.png" height="500" width="500">
 
