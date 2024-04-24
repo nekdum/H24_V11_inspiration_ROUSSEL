@@ -65,9 +65,11 @@ juste le fait que le il y a qu'elle problème avec le Body traking des mouvement
 L'exposition des finissants canevas cosmique était vraiment intéressante. je dirait même que cétait ma préférer. j'ai trouver les fonction intéractive vraiment amusente a utiliser. les différente statue qui font différente effet sur le canevas
 cosmique est vraiment une bonne idée. deuxièmement le fait qu'il est des petite statue pour representé chaque effet aide beaucoup a l'imersion de l'inatalation. 
 
-<img src="media/photo/statue_univere_2.jpeg" height="300" width="300"> <img src="media/photo/qr_univere.jpeg" height="300" width="300"> <img src="media/photo/écran_univere.jpeg" height="300" width="300">
+<img src="media/photo/statue_univere_2.jpeg" height="500" width="500">  <img src="media/photo/écran_univere.jpeg" height="500" width="500">
 
-en plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas  
+en plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas fonctionnet avec une *kinect*[^1] qui est cacher en dessou de la table et qui détecte les différent qr code qui son placer sur la table.
+
+<img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
 
 <br>
 <br>
