@@ -98,7 +98,11 @@ l'exposition Effet Papillon est vraiment une expérience unique et probablement 
 
 <img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
 
-comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer leur projet
+comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer. leur projet était vraiment ambicieux même si le projet finale avait quelque problème mais a la fin de la journée il nous ont quand même montrer les fonction éssentiel de leur projet.
+
+<img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
+
+avec des idée vraiment original et une petit histoire qui ajoute un petit charme a l'instalation. j'ai vraiment aimer l'utilisation des différent objet présent damns la piece et les différente idée derrière le concept de l'expositon.
 
 <br>
 <br>
@@ -106,7 +110,9 @@ comme je l'ai dit précédament grace au différent objet intéractif qui était
 
 ## conclusion ##
 
-[^1]:appareil utilisé pour la motion capture dans les certains jeux vidéos. Populariser par la console de jeux vidéos Xbox. Ce dernier sera beaucoup utilisé dans les nombreux projets des finissants .
+pour conclure toute les exposition était vraiment cool et intérencete a voir. que sa soit la première foie que j'ai vu ou la deuxième foie quand il était améliorer et meilleure que la première foie. toute les exposition propoait des idée original et des concept différent l'un de l'autre. c'est sourtout voir l'évolution des projet lors du deuxième visionement que les projet on vraiment évoluer et que tu voir la passion et l'effort dans chaque projet. 
+
+[^1]:appareil utilisé pour la motion capture dans les certains jeux vidéos. Populariser par la console de jeux vidéos Xbox. Ce dernier sera beaucoup utilisé dans les nombreux projets des finissants.
 
 
 
