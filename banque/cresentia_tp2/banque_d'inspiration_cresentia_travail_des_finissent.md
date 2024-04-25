@@ -14,7 +14,7 @@ Voici mon expérience a l'exposition ***Crescentia*** et de voir le projet des f
 <br>
 <br>
 # Rhizomatique #
-<img src="media/photo/rhizomatique.png" height="500" width="500">
+<img src="media/photo/rhizomatique.png" height="250" width="250">
 
 
 ## expérience proposé ##
@@ -38,7 +38,7 @@ Elle possédait plusieurs projecteurs qui projetait des vidéos des étudient qu
 <br>
 
 # Kigo #
-<img src="media/photo/Kigo.png" height="500" width="500">
+<img src="media/photo/Kigo.png" height="250" width="250">
 
 ## expérience proposé ##
 
@@ -58,7 +58,7 @@ juste le fait que le il y a qu'elle problème avec le Body traking des mouvement
 <br>
 
 # Canevas Cosmique #
-<img src="media/photo/canevas cosmique.png" height="500" width="500">
+<img src="media/photo/canevas cosmique.png" height="250" width="250">
 
 ## expérience proposé ##
 
@@ -71,22 +71,35 @@ en plus d'avoir un écran qui montre la version de l'univer au complet en trois 
 
 <img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
 
+une exposition que j'ai beaucoup apprécier non seul a cause de l'exposition mais aussi a cause des personne qui était en charge de cette axposition en particulier. des personne super simpatique et de très agréable avec qui j'ai des conversation très intéraissante sur leur projet est les noubreuse idée qu'il on eux pendant le développement de leur projet.
 <br>
 <br>
 <br>
 
 # Sonalux #
-<img src="media/photo/sonalux.png" height="500" width="500">
+<img src="media/photo/sonalux.png" height="250" width="250">
 
 ## expérience proposé ##
+j'ai bien aimer l'expérience porposer par les finissant. Sonalux est une expérience musical dans laquel tu peux modifier et augmenter les différent son et musique qui on été créer pour locasion. le projet venait avec deux paire d'écouteur et avait différent affet qui était projeter sur le murs quand tu changeais les son ou quant tu paise sur les nombreux qui était a notre disposition wt qui faisait plusieur et nombreux changement a l'environnement que la l'exposition.
+
+<img src="media/photo/bouton_son.jpg" height="500" width="500"> <img src="media/photo/écran_son.jpeg" height="500" width="500">
+
+je pense que c'était vraiment intrigant de voir un projet qui utilisait le son comme une des c'est aspect principale. je trouve que juste cette aspect permet vraiment de démarquer ce projet et contrairement au autre qui utilise toute une fonction visuel et la *kinect*[^1]. même si c'est pas mon exposition préférer je pense quand même que cette exposition est intéraicente.
 <br>
 <br>
 <br>
 
 # Effet Papillon #
-<img src="media/photo/effet_papillon.png" height="500" width="500">
+<img src="media/photo/effet_papillon.png" height="250" width="250">
 
 ## expérience proposé ##
+
+l'exposition Effet Papillon est vraiment une expérience unique et probablement la plus ambicieuse de toute les exposition de cresentia. en utilisant l'entierter du petit studio il on réussi a créer plusier object intéractif qui activait toute une partie du cycle de la vie. exposition disposait d'un poteau au millieu de la pièce avec plusieur petit écran qui montrait plusieur photo et changeais selon les stage différent stage du cycle de la vie. 
+
+<img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
+
+comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer leur projet
+
 <br>
 <br>
 <br>
