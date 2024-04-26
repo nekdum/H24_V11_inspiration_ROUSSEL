@@ -13,6 +13,59 @@ Voici mon expérience a l'exposition ***Crescentia*** et de voir le projet des f
 <br>
 <br>
 <br>
+
+# Canevas Cosmique #
+<img src="media/photo/canevas cosmique.png" height="250" width="250">
+
+## expérience proposé ##
+
+L'exposition des finissants canevas cosmique était vraiment intéressante. je dirait même que cétait ma préférer. j'ai trouver les fonction intéractive vraiment amusente a utiliser. les différente statue qui font différente effet sur le canevas
+cosmique est vraiment une bonne idée. deuxièmement le fait qu'il est des petite statue pour representé chaque effet aide beaucoup a l'imersion de l'inatalation. 
+
+<img src="media/photo/statue_univere_2.jpeg" height="500" width="500">  <img src="media/photo/écran_univere.jpeg" height="500" width="500">
+
+en plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas fonctionnet avec une *kinect*[^1] qui est cacher en dessou de la table et qui détecte les différent qr code qui son placer sur la table.
+
+<img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
+
+une exposition que j'ai beaucoup apprécier non seul a cause de l'exposition mais aussi a cause des personne qui était en charge de cette axposition en particulier. des personne super simpatique et de très agréable avec qui j'ai des conversation très intéraissante sur leur projet est les noubreuse idée qu'il on eux pendant le développement de leur projet.
+<br>
+<br>
+<br>
+
+# Effet Papillon #
+<img src="media/photo/effet_papillon.png" height="250" width="250">
+
+## expérience proposé ##
+
+l'exposition Effet Papillon est vraiment une expérience unique et probablement la plus ambicieuse de toute les exposition de cresentia. en utilisant l'entierter du petit studio il on réussi a créer plusier object intéractif qui activait toute une partie du cycle de la vie. exposition disposait d'un poteau au millieu de la pièce avec plusieur petit écran qui montrait plusieur photo et changeais selon les stage différent stage du cycle de la vie. 
+
+<img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
+
+comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer. leur projet était vraiment ambicieux même si le projet finale avait quelque problème mais a la fin de la journée il nous ont quand même montrer les fonction éssentiel de leur projet.
+
+<img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
+
+avec des idée vraiment original et une petit histoire qui ajoute un petit charme a l'instalation. j'ai vraiment aimer l'utilisation des différent objet présent damns la piece et les différente idée derrière le concept de l'expositon.
+
+<br>
+<br>
+<br>
+# Kigo #
+<img src="media/photo/Kigo.png" height="250" width="250">
+
+## expérience proposé ##
+
+L'exposition des finissants Kigo était vraiment intéressante. 
+une *kinect*[^1] qui était placer devant la personne détectait la position de la personne et c'est movement et les répliquait sur l'image qui était montrer grace au projecteur.
+deuxièmant, il avait aussi un sens de compétition a cette exposition car le plus de point tu ramase le plus au ton score est. je pense l'idée de faire comme si c'était un jeux a beacoup aider le projet. 
+aspect compétition a du aussi aider pour faire participer plus de monde.
+
+<img src="media/photo/écran_parcour.jpeg" height="500" width="500">
+
+un idée de projet très original, qui insiste beaucoup les gens a participer je trouve que c'est un très bon projet. même si l'espect compétitif est un peux frustrant je voit pas beaucoup de problème avec cette instalation.
+juste le fait que le il y a qu'elle problème avec le Body traking des mouvement qui ce trasmettre pas bien a l'écran mais sinon c'est vraiment le seul problème que j'ai trouver avec cette instalation. 
+
 # Rhizomatique #
 <img src="media/photo/rhizomatique.png" height="250" width="250">
 
@@ -37,44 +90,13 @@ Elle possédait plusieurs projecteurs qui projetait des vidéos des étudient qu
 <br>
 <br>
 
-# Kigo #
-<img src="media/photo/Kigo.png" height="250" width="250">
-
-## expérience proposé ##
-
-L'exposition des finissants Kigo était vraiment intéressante. 
-une *kinect*[^1] qui était placer devant la personne détectait la position de la personne et c'est movement et les répliquait sur l'image qui était montrer grace au projecteur.
-deuxièmant, il avait aussi un sens de compétition a cette exposition car le plus de point tu ramase le plus au ton score est. je pense l'idée de faire comme si c'était un jeux a beacoup aider le projet. 
-aspect compétition a du aussi aider pour faire participer plus de monde.
-
-<img src="media/photo/écran_parcour.jpeg" height="500" width="500">
-
-un idée de projet très original, qui insiste beaucoup les gens a participer je trouve que c'est un très bon projet. même si l'espect compétitif est un peux frustrant je voit pas beaucoup de problème avec cette instalation.
-juste le fait que le il y a qu'elle problème avec le Body traking des mouvement qui ce trasmettre pas bien a l'écran mais sinon c'est vraiment le seul problème que j'ai trouver avec cette instalation. 
 
 
 <br>
 <br>
 <br>
 
-# Canevas Cosmique #
-<img src="media/photo/canevas cosmique.png" height="250" width="250">
 
-## expérience proposé ##
-
-L'exposition des finissants canevas cosmique était vraiment intéressante. je dirait même que cétait ma préférer. j'ai trouver les fonction intéractive vraiment amusente a utiliser. les différente statue qui font différente effet sur le canevas
-cosmique est vraiment une bonne idée. deuxièmement le fait qu'il est des petite statue pour representé chaque effet aide beaucoup a l'imersion de l'inatalation. 
-
-<img src="media/photo/statue_univere_2.jpeg" height="500" width="500">  <img src="media/photo/écran_univere.jpeg" height="500" width="500">
-
-en plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas fonctionnet avec une *kinect*[^1] qui est cacher en dessou de la table et qui détecte les différent qr code qui son placer sur la table.
-
-<img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
-
-une exposition que j'ai beaucoup apprécier non seul a cause de l'exposition mais aussi a cause des personne qui était en charge de cette axposition en particulier. des personne super simpatique et de très agréable avec qui j'ai des conversation très intéraissante sur leur projet est les noubreuse idée qu'il on eux pendant le développement de leur projet.
-<br>
-<br>
-<br>
 
 # Sonalux #
 <img src="media/photo/sonalux.png" height="250" width="250">
@@ -89,24 +111,6 @@ je pense que c'était vraiment intrigant de voir un projet qui utilisait le son 
 <br>
 <br>
 
-# Effet Papillon #
-<img src="media/photo/effet_papillon.png" height="250" width="250">
-
-## expérience proposé ##
-
-l'exposition Effet Papillon est vraiment une expérience unique et probablement la plus ambicieuse de toute les exposition de cresentia. en utilisant l'entierter du petit studio il on réussi a créer plusier object intéractif qui activait toute une partie du cycle de la vie. exposition disposait d'un poteau au millieu de la pièce avec plusieur petit écran qui montrait plusieur photo et changeais selon les stage différent stage du cycle de la vie. 
-
-<img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
-
-comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer. leur projet était vraiment ambicieux même si le projet finale avait quelque problème mais a la fin de la journée il nous ont quand même montrer les fonction éssentiel de leur projet.
-
-<img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
-
-avec des idée vraiment original et une petit histoire qui ajoute un petit charme a l'instalation. j'ai vraiment aimer l'utilisation des différent objet présent damns la piece et les différente idée derrière le concept de l'expositon.
-
-<br>
-<br>
-<br>
 
 ## conclusion ##
 
