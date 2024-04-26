@@ -2,7 +2,7 @@
 ### Cégep Montmorency ###
 
 
-Voici mon expérience a l'exposition ***Crescentia*** et de voir le projet des finances du programme de multimédia.
+Voici mon expérience a l'exposition ***Crescentia*** et de voir le projet des finissent du programme de multimédia.
 *dans cette exposition, il avait cinq projets différents qui ont mis le concept de l'évolution de l'avent.*
 
 
