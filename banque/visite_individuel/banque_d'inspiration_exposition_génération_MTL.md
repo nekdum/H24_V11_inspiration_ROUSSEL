@@ -1,7 +1,7 @@
 # génération MTL #
-### musée pointe-à-callière ###
+### Musée pointe-à-callière ###
 
-Voici mon expérience a l'exposition ***génération MTL***.
+Voici mon expérience à l'exposition ***génération MTL***.
 
 <img src="image/canadien_mtl.jpeg">
 
