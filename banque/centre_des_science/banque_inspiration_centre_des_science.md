@@ -19,7 +19,7 @@ Voici *Meca500* un bras robotique inventé par l'entreprise québécoise Mecadem
 
 ## Description du dispositif multimédia ##
 
-Cette installation du centre des sciences comporte plain d'aspect du multimedia par exemple. le fais d'utiliser plusieur pièce qui on probablement des carte magnétique qui vont envoyer un signale au petite ordinateur qui est probablement istaller a l'intérieure de la boite avec les robot. cette ordinateur qui va recevoir les différents signaux et qui va dététerminer grâce a l'orde des différent carte et le signale que les différente carte envoyer a l'ordinateur. L'ordinateur va pouvoir nous dire c'est quoi l'orde et les  l'action qu'elle va faire. puis le visiteur va enfin pouvoir appuyer sur le bouton jaune et le robot va commencer a exécuté la petite corégraphie que vous avez programer avec l'aide des carte.
+Le multimédia c' est d' utiliser plusieurs type de communication comme des graphiques, des texte, de l'audio,du  vidéo et de l'animation. Dans les musées, on utilise tous ces types de communication car on veut stimuler tous les visiteurs. Pour le bras robotique, on choisit des cartes qui définisse l' ordre des actions du robot: il y a des graphiques, des textes et de l'animation et de la programmation.
 
 ## Expérience personnelle et Conclusion:  ##
 
