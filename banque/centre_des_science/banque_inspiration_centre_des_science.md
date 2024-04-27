@@ -23,6 +23,5 @@ cette instalation du centre des science comporte plain d'aspect du multimedia pa
 
 ## expérience personnelle et conclusion ##
 
-pour conclure, j'aimerais rajoute que toute les instalation était vraiment intéraisente et que j'ai vraiment eux beaucoup de plaisir a venir au centre des science. même si je suis arriver en retard je pense pas que j'ai manqué grand chose. lesexposition permanente était vraiment amusente et on apporté beaucoup de plaisir et d'amusement a cette visite qui est une des plus intérécente. je dit pas que cétait la plus intérécente mais elle avait beaucoup de chose instructive et intérécente a voir et ma fait raplé beaucoup de souvenir d'enfance et de bonne mémoire je conseillerait cette expérience a tout le monde. 
-
+C' est un musée pour les groupes scolaire et les familles. Il y avait beaucoup de bruit, et quelque fois on avait de la difficulté à entendre les vidéos et les animations dans les expositions. J' ai bien aimé mon expérience et j' ai eu l'occasion d’en apprendre davantage sur la science.Ça m' a rappelé des souvenirs car je suis venu avec mon école loraque j' étais plus jeune. 
 <img src="photo/thomas.png" > <img src="photo/felix.png" >
