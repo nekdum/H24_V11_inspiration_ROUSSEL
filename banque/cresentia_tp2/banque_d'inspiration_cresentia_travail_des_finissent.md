@@ -2,7 +2,7 @@
 ### Cégep Montmorency ###
 
 
-J' aimerais partagé mes impressions de ma visite à  l'exposition ***Crescentia*** consacré au projet des finissants du programme de multimédia.
+J' aimerais partagé mes impressions de ma visite à  l'exposition ***Crescentia*** consacré au projet des finissants du programme de multimédia. Crescentia, est un mot en latin qui signifie croissance. 
 *Dans cette exposition, il avait cinq projets différents qui ont mis le concept de l'évolution de l'avant.*
 
 
