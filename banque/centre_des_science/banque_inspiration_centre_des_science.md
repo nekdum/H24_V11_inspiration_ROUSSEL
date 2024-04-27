@@ -17,11 +17,11 @@ Voici *Meca500* un bras robotique inventé par l'entreprise québécoise Mecadem
 
 <img src="photo/nom_instalation.jpeg" height="500" width="300"> <img src="photo/info_robot.jpeg" height="500" width="700">
 
-## description du dispositif multimedia ##
+## Description du dispositif multimédia ##
 
-Cette installation du centre des sciences comporte plain d'aspect du multimedia par exemple. le fais d'utiliser plusieur pièce qui on probablement des carte magnétique qui vont envoyer un signale au petite ordinateur qui est probablement istaller a l'intérieure de la boite avec les robot. cette ordinateur qui va recevoir les différent signale et qui va dététerminer grâce a l'orde des différent carte et le signale que les différente carte envoyer a l'ordinateur. L'ordinateur va pouvoir nous dire c'est quoi l'orde et les  l'action qu'elle va faire. puis le visiteur va enfin pouvoir appuyer sur le bouton jaune et le robot va commencer a exécuté la petite corégraphie que vous avez programer avec l'aide des carte.
+Cette installation du centre des sciences comporte plain d'aspect du multimedia par exemple. le fais d'utiliser plusieur pièce qui on probablement des carte magnétique qui vont envoyer un signale au petite ordinateur qui est probablement istaller a l'intérieure de la boite avec les robot. cette ordinateur qui va recevoir les différents signaux et qui va dététerminer grâce a l'orde des différent carte et le signale que les différente carte envoyer a l'ordinateur. L'ordinateur va pouvoir nous dire c'est quoi l'orde et les  l'action qu'elle va faire. puis le visiteur va enfin pouvoir appuyer sur le bouton jaune et le robot va commencer a exécuté la petite corégraphie que vous avez programer avec l'aide des carte.
 
-## expérience personnelle et conclusion:  ##
+## Expérience personnelle et Conclusion:  ##
 
 Le musée des Sciences est un endroit pour les groupes scolaire et les familles. Il y avait beaucoup de bruit, et quelques fois on avait de la difficulté à entendre les vidéos et les animations dans les expositions. J' ai bien aimé mon expérience et j' ai eu l'occasion d’en apprendre davantage.Ce qui est intéressant c' est l' interraction qui te permet de comprendre les concepts Ça m' a rappelé des souvenirs car je suis venu avec mon école lorsque j' étais plus jeune. 
 <img src="photo/thomas.png" > <img src="photo/felix.png" >
