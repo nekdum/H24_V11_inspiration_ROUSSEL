@@ -1,9 +1,9 @@
-# dispositif multimedia du Centre des science  #
+# dispositif multimédia du Centre des sciences  #
 ### bras robotique Meca500 ###
 
 ## introduction ##
 
-voici mon experience au ***centre des science*** et les nombreuse instalation multimedia le 5 avril 2024. j'ai choisi une instalation a particullier qui ma vraiment intéraisser.
+J'aimerais partagé mes impressions de ma visite au ***centre des sciences***  le 5 avril 2024. Le Centre des sciences est un musée qui fait de la vulgarisation scientifique. Il y a des expositions permanentes et temporaires. J'ai choisi de présenter  une installation qui m'a vraiment intéressé.
 
 ## description de l'instalation ##
 
