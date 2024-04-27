@@ -19,8 +19,8 @@ J' aimerais partagé mes impressions de ma visite à  l'exposition ***Crescentia
 
 ## expérience proposé ##
 
-L'exposition des finissants canevas cosmique était vraiment intéressante. je dirait même que cétait ma préférer. j'ai trouver les fonction intéractive vraiment amusente a utiliser. les différente statue qui font différente effet sur le canevas
-cosmique est vraiment une bonne idée. deuxièmement le fait qu'il est des petite statue pour representé chaque effet aide beaucoup a l'imersion de l'inatalation. 
+Je vais débuté par mon exposition préféré: celle sur le canevas cosmique, elle  était vraiment intéressante. j'ai trouvé les fonctions intéractives vraiment amusante à utilisé. Les différentes statues qui crée des effets variés sur le canevas
+cosmique est vraiment une bonne idée. J' ai aussi aimé que l'on utilise des petites statues pour representer chaque effet, cela aide beaucoup à l'immerssion de l'installation. 
 
 <img src="media/photo/statue_univere_2.jpeg" height="500" width="500">  <img src="media/photo/écran_univere.jpeg" height="500" width="500">
 
