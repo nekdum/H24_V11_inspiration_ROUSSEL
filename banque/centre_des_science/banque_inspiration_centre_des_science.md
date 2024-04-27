@@ -11,7 +11,7 @@ J' aimerais vous présenter le bras robotique *Meca500*.
 
 <img src="photo/side_profile.jpeg" height="300" width="300"> <img src="photo/vue_devent.jpeg" height="300" width="300">  <img src="photo/vue_deçu.jpeg" height="300" width="300"> 
 
-voici *Meca500* un bras robotique industriel inventé par l'entreprise québécoise Mecademic (une compagnie Montréalaise). Ce petit bras permet de recrée des mouvement qui sont normalement impossible pour l'être humain mais pour ce bras rien est impossible car elle peux recrée des movement avec une précission subhumaine. dans cette instalation tu pouvait faire dancer le vras robotique en utilisent différente carte qui donnais différente directive et action que le robot pouvait exécuter selon l'orde dans lequel tu les mettais. puis quand tu avais enfin décider de l'ordre des action de ton robot tu pesais sur le bouton jaune pour qu'il bouge.
+voici *Meca500* un bras robotique inventé par l'entreprise québécoise Mecademic (une compagnie Montréalaise).Il a six axes (articulations) qui lui permettent de deplacer des objets. Ce petit bras (il est vraiment petit-on peut le mettre dans une valise.) Malgré sa petite taille,  ce robot  fait  des mouvements qui sont très précis et qui sont normalement impossible pour l'être humain.La précision est plus petite que la taille d' un cheveux. Au musée, on peut faire danser le robot grâce a de la programmation: lorsque l' on appuie sur un bouton jaune, le robot exécute la directive qui est fourni par des cartes 
 
 <img src="photo/instruction.jpeg" height="500" width="700"> <img src="photo/info_robot_2.jpeg" height="500" width="300">
 
