@@ -19,7 +19,7 @@ Ajouter des personnages qui parlent de leur histoire rend l' expérience plus pe
 <img src="image/main_mtl.jpeg" width="500" ><img src="image/map_mtl.jpeg" width="500" >
 
 L'aspect musical comme le jazz est aussi présenté et on parle aussi de l' importance du sport et du hockey. Le spectacle inclus des vieux paysages et des images récentes.
-J' ai bien aimé ce spectacle car il me donne le goût d' en apprendre plus sur la ville de Montréal et peut-etre de faire comme les touristes et de visiter plus cette belle ville. 
+J' ai bien aimé ce spectacle car il me donne le goût d' en apprendre plus sur la ville de Montréal et peut-être de faire comme les touristes et de visiter plus cette belle ville. 
 
 
 
