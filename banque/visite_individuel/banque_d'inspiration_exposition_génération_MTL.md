@@ -1,11 +1,11 @@
-# génération MTL #
+# Génération MTL #
 ### Musée Pointe-à-Callière ###
 
 Voici mon expérience au Spectacle multimédia ***Génération MTL***. Le titre est choisi pour rendre hommage aux personnages importants qui proviennent de plusieurs générations. Le musée de Pointe-à-Callières est un musée spécialisé dans l' histoire.Le musée de la Pointe à Callières est le lieu de fondation de Montréal. 
 
 <img src="image/canadien_mtl.jpeg">
 
-# Expérience proposé: #
+# Expérience proposée: #
 L'expérience offerte est un cours d' histoire de 20 minutes sur Montréal! On apprend sur l' histoire de Montréal et les gens qui ont bâti la ville. L' histoire de Montréal est projetté sur un écran de 400 mètres Il y a plusieurs projecteurs, des effets de lumière et des sons. Il y a beaucoup de lumières DEL. Il y a aussi des toiles verticales qui font un effet en 3D. On voit aussi des comédiens qui parle de la réalité de Montréal à divers époques et on inclus l' histoire des Autochtones et d'une immigrante. 
 
 
