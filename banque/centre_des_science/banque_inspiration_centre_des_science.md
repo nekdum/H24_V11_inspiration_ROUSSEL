@@ -1,4 +1,4 @@
-# dispositif multimédia du Centre des sciences  #
+# Dispositif multimédia du Centre des sciences  #
 ### Bras robotique Meca 500 ###
 
 ## Introduction:  ##
