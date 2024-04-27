@@ -28,7 +28,7 @@ en plus d'avoir un écran qui montre la version de l'univer au complet en trois 
 
 <img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
 
-une exposition que j'ai beaucoup apprécier non seul a cause de l'exposition mais aussi a cause des personne qui était en charge de cette axposition en particulier. des personne super simpatique et de très agréable avec qui j'ai des conversation très intéraissante sur leur projet est les noubreuse idée qu'il on eux pendant le développement de leur projet.
+Un autre point positif de l' exposition est l' implication des gens. Ils étaient présents pendant ma visite. J' ai eu la chance de discuter avec eux et d' en apprendre plus sur leur concept ainsi que les nombreuses idées qu' ils ont eu pendant le développement de leur projet. 
 <br>
 <br>
 <br>
