@@ -23,5 +23,5 @@ Cette instalation du centre des science comporte plain d'aspect du multimedia pa
 
 ## expérience personnelle et conclusion ##
 
-C' est un musée pour les groupes scolaire et les familles. Il y avait beaucoup de bruit, et quelque fois on avait de la difficulté à entendre les vidéos et les animations dans les expositions. J' ai bien aimé mon expérience et j' ai eu l'occasion d’en apprendre davantage sur la science.Ça m' a rappelé des souvenirs car je suis venu avec mon école loraque j' étais plus jeune. 
+Le musée des Sciences est un endroit pour les groupes scolaire et les familles. Il y avait beaucoup de bruit, et quelques fois on avait de la difficulté à entendre les vidéos et les animations dans les expositions. J' ai bien aimé mon expérience et j' ai eu l'occasion d’en apprendre davantage.Ce qui est intéressant c' est l' interraction qui te permet de comprendre les concepts Ça m' a rappelé des souvenirs car je suis venu avec mon école lorsque j' étais plus jeune. 
 <img src="photo/thomas.png" > <img src="photo/felix.png" >
