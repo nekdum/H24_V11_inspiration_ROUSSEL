@@ -74,19 +74,17 @@ Le participant en pesant sur la toile déclenche ses souvenirs. La salle est com
 La toile represente le cerveau. Le participant pèse sur la toile et active ses souvenirs par la rhizomatique qui est le concept offert dans l' exposition. 
 Plus tu pèses sur la toile plus ton souvenirs apparait et si tu pèses rapidememnt le souvenirs disparait. 
 
-La lumière nous guide pour prendre notre place derrière la station de contrôle. Quand tu arrives tout va vite mais dès que tu actionnes le contr^le et que les souvenirs apparaissent tout se calme. Les images sur la toile sont très modernes, il y a des difference de couleur quns tu touche la toile 
+La lumière nous guide pour prendre notre place derrière la station de contrôle. Quand tu arrives tout va vite mais dès que tu actionnes le contr^le et que les souvenirs apparaissent tout se calme. Les images sur la toile sont très modernes, il y a des differences de couleur quand tu touches la toile 
 Dans l' installation on utilise plusieurs projecteurs qui projetait des vidéos. L' environnement sonore était aussi intéressant, il y a plusieurs niveau de son, 
-un son de fond qui est associé avec le souvenir qui est présenté et lorsque le participant déclenche un souvenir il y a 
-un son qui s' ajoute pour créer l'effet lointain qui rappelle le souvenir qui est présenté
+un son de fond qui est associé avec le souvenir qui est présenté et lorsque le participant déclenche un souvenir il y a un son qui s' ajoute pour créer l'effet lointain qui rappelle le souvenir qui est présenté
 
 
 
 <img src="media/photo/écran_souvenir.jpeg" height="500" width="500"> <img src="media/photo/rizzometia photo main.jpg" height="500" width="500">
 
 
+C'est un projet L'exposition utilisait bien les fonctions de la *kinect*[^1]et l' aspect rapide et lent du souvenir qui apparait.Les projections sur les mur était bien faites. 
 
-
- L'exposition utilisait bien les fonctions de la *kinect*[^1]et l' aspect rapide et lent du souvenir qui apparait.Les projection sur le mur était bien fait
  ## EXPÉRIENCE PERSONELLE ##
 Bien aimé le concept! On a l' impression d' explorer les souvenirs qui se trouve dans notre cerveau. C' est une exposition qui est très relaxante grâce à la musique et les images.Le nom rhizomatique était bizarre mais il fait référence aux racine des plantes. Dans l'oeuvre on fait beaucoup le lien entre le temps et l' humain c' est plus scientifique! Il y a beaucoup d' images de cellules et de neurones. Je ne suis pas certain d' aimé le nom mais je comprends qu' il fait référence aux souvenirs enfouis comme les racines d' une plante! 
 <br>
@@ -104,22 +102,27 @@ Bien aimé le concept! On a l' impression d' explorer les souvenirs qui se trouv
 # Sonalux #
 <img src="media/photo/sonalux.png" height="250" width="250">
 
-## expérience proposé ##
-j'ai bien aimer l'expérience porposer par les finissant. Sonalux est une expérience musical dans laquel tu peux modifier et augmenter les différent son et musique qui on été créer pour locasion. le projet venait avec deux paire d'écouteur et avait différent affet qui était projeter sur le murs quand tu changeais les son ou quant tu paise sur les nombreux qui était a notre disposition wt qui faisait plusieur et nombreux changement a l'environnement que la l'exposition.
+## expérience proposé et description ##
+J'ai bien aimé Sonalux qui est présenté comme un studio de musique immersif. Le participant de cette expérience musical peux modifier et augmenter les différents son qu' il entend. Le participant débute son expérience en mettant les écouteurs sur ses oreilles. Ce qui isole les sons autour de lui et permet de mettre tout ton attention sur l' expérience. Les sons sont combiner avec des effets visuels qui sont projettes sur les murs. En utilisant les boutons tu peux changer les sons et les images. Comme l' aspect sonore est important, il y a de nombreux haut parleurs et 6 sorties audio. 
+
+Pour la partie visuel,il y avait de la lumière au plancher pour délimiter les écrans. Sur les écrans on projetait de l' art génératif, il y avait 2 ambiance une neutre et l' autre avec des couleurs vives. 
+
 
 <img src="media/photo/bouton_son.jpg" height="500" width="500"> <img src="media/photo/écran_son.jpeg" height="500" width="500">
 
-je pense que c'était vraiment intrigant de voir un projet qui utilisait le son comme une des c'est aspect principale. je trouve que juste cette aspect permet vraiment de démarquer ce projet et contrairement au autre qui utilise toute une fonction visuel et la *kinect*[^1]. même si c'est pas mon exposition préférer je pense quand même que cette exposition est intéraicente.
+## Commentaires: ##
+
+L' installation est facile à utiliser. Il y a certains sons aigus qui me dérangeait au début de l' expérience mais qui diminue quand on arrive dans la deuxième phase du projet. . J' étais vraiment intrigué par ce projet car c' était le seul qui utilisait le son comme un des c'est aspect principal. Pour moi, ce projet s' est démarqué des autres à cause de son approche
 <br>
 <br>
 <br>
 
 
-## conclusion ##
+## Conclusion ##
 
-pour conclure toute les exposition était vraiment cool et intérencete a voir. que sa soit la première foie que j'ai vu ou la deuxième foie quand il était améliorer et meilleure que la première foie. toute les exposition propoait des idée original et des concept différent l'un de l'autre. c'est sourtout voir l'évolution des projet lors du deuxième visionement que les projet on vraiment évoluer et que tu voir la passion et l'effort dans chaque projet. 
+En conclusion, c' était vraiment cool de voir les projets des finissants. Je sui s impressionné par la qualité des projets qui ont étés présentés. conclure toute les exposition était vraiment cool et intérencete a voir. que sa soit la première foie que j'ai vu ou la deuxième foie quand il était améliorer et meilleure que la première foie. toute les exposition propoait des idée original et des concept différent l'un de l'autre. c'est sourtout voir l'évolution des projet lors du deuxième visionement que les projet on vraiment évoluer et que tu voir la passion et l'effort dans chaque projet. 
 
-[^1]:appareil utilisé pour la motion capture dans les certains jeux vidéos. Populariser par la console de jeux vidéos Xbox. Ce dernier sera beaucoup utilisé dans les nombreux projets des finissants.
+[^1]:appareil utilisé pour la motion capture dans les certains jeux vidéos. Popularisé par la console de jeux vidéos Xbox. kinetic veut dire cinétique et connect pour connecter.Cela permet de contrôler un objet  dans utiliser de manette
 
 
 
