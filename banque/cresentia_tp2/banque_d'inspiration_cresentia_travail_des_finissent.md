@@ -51,12 +51,13 @@ Il y a deux étapes dans l' Effet papillon: lors de la première partie on inter
 <br>
 <br>
 <br>
-## Kigo ##
+
+# Kigo #
 <img src="media/photo/Kigo.png" height="250" width="250">
 
 ## expérience proposé ##
 
-Le jeu interractif  Kigo était vraiment intéressant. L'univers Kigo est un style néon rétro et le participant évolue dans differentes saisons. C' est un environnement Asiatique Le logo est diffusé en boucle en attendant qu' une personne débute le jeu. Lorsque le participant est détecté par la  *kinect*[^1] le jeu débute. Le joueur peut se déplacer dans une zone et on voit son avatar  grâce au projecteur. Plusieurs technologies sont utilisés: projection interractive, projecteurs, kinnect, plate forme d' interractions. Il y avait aussi des modélisations 3D et des sons qui accompagnait le parcours du joueur, les sons utilisés sont des sons qui proviennent des jeux vidéos. 
+Le jeu interractif Kigo était vraiment intéressant. L'univers Kigo est un style néon rétro et le participant évolue dans differentes saisons. C' est un environnement Asiatique Le logo est diffusé en boucle en attendant qu' une personne débute le jeu. Lorsque le participant est détecté par la  *kinect*[^1] le jeu débute. Le joueur peut se déplacer dans une zone et on voit son avatar  grâce au projecteur. Plusieurs technologies sont utilisés: projection interractive, projecteurs, kinnect, plate forme d' interractions. Il y avait aussi des modélisations 3D et des sons qui accompagnait le parcours du joueur, les sons utilisés sont des sons qui proviennent des jeux vidéos. 
 
 
 <img src="media/photo/écran_parcour.jpeg" height="500" width="500">
