@@ -56,15 +56,12 @@ Il y a deux étapes dans l' Effet papillon: lors de la première partie on inter
 
 ## expérience proposé ##
 
-L'exposition des finissants Kigo était vraiment intéressante. 
-une *kinect*[^1] qui était placer devant la personne détectait la position de la personne et c'est movement et les répliquait sur l'image qui était montrer grace au projecteur.
-deuxièmant, il avait aussi un sens de compétition a cette exposition car le plus de point tu ramase le plus au ton score est. je pense l'idée de faire comme si c'était un jeux a beacoup aider le projet. 
-aspect compétition a du aussi aider pour faire participer plus de monde.
+Le jeu interractif  Kigo était vraiment intéressant. L'univers Kigo est un style néon rétro et le participant évolue dans differentes saisons. C' est un environnement Asiatique Le logo est diffusé en boucle en attendant qu' une personne débute le jeu. Lorsque le participant est détecté par la  *kinect*[^1] le jeu débute. Le joueur peut se déplacer dans une zone et on voit son avatar  grâce au projecteur. Plusieurs technologies sont utilisés: projection interractive, projecteurs, kinnect, plate forme d' interractions. Il y avait aussi des modélisations 3D et des sons qui accompagnait le parcours du joueur, les sons utilisés sont des sons qui proviennent des jeux vidéos. 
+
 
 <img src="media/photo/écran_parcour.jpeg" height="500" width="500">
 
-un idée de projet très original, qui insiste beaucoup les gens a participer je trouve que c'est un très bon projet. même si l'espect compétitif est un peux frustrant je voit pas beaucoup de problème avec cette instalation.
-juste le fait que le il y a qu'elle problème avec le Body traking des mouvement qui ce trasmettre pas bien a l'écran mais sinon c'est vraiment le seul problème que j'ai trouver avec cette instalation. 
+Comme dans un jeu vidéo, chaque participant a trois vie et doit accumuler des points. Quand la partie commence, le joueur doit eviter les obstacles en utilisant son corps.L' objectif est d' accumuler le plus de points À la fin il y a une scene de défaite quand le jeu est fini, il y a aussi une autre scène qunad on sort de la zone du jeu afin de nous ramener dans le jeu. Quand je suis allé, il y a avait un problème avec le Body traking des mouvements qui ne se transmettait pas bien à l'écran mais j' ai bien aimé mon expérience!  
 
 # Rhizomatique #
 <img src="media/photo/rhizomatique.png" height="250" width="250">
