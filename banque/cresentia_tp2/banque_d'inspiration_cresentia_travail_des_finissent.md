@@ -68,11 +68,15 @@ Comme dans un jeu vidéo, chaque participant a trois vie et doit accumuler des p
 
 
 ## expérience proposé ##
-L'exposition des finissants Rhizomatique était vraiment intéressante. 
-Elle possédait plusieurs projecteurs qui projetait des vidéos des étudient qui ont participé a la création de se projet.
+Rhizomatique, c' est une oeuvre multimédia immersive qui fait le lien entre le temps et l' humain.
+Le participant en pesant sur la toile déclenche ses souvenirs. La salle est composé d' une structure et de toiles projetté sur 3 murs. 
+La toile represente le cerveau. Le participant pèse sur la toile et active ses souvenirs par la rhizomatique qui est le concept offert dans l' exposition. 
+Plus tu pèses sur la toile plus ton souvenirs apparait et si tu pèses rapidememnt le souvenirs disparait. 
 
-
-
+La lumière nous guide pour prendre notre place derrière la station de contrôle. Quand tu arrives tout va vite mais dès que tu actionnes le contr^le et que les souvenirs apparaissent tout se calme. Les images sur la toile sont très modernes, il y a des difference de couleur quns tu touche la toile 
+Dans l' installation on utilise plusieurs projecteurs qui projetait des vidéos. L' environnement sonore était aussi intéressant, il y a plusieurs niveau de son, 
+un son de fond qui est associé avec le souvenir qui est présenté et lorsque le participant déclenche un souvenir il y a 
+un son qui s' ajoute pour créer l'effet lointain qui rappelle le souvenir qui est présenté
 
 
 
@@ -81,8 +85,9 @@ Elle possédait plusieurs projecteurs qui projetait des vidéos des étudient qu
 
 
 
- L'exposition utilisait bien les fonctions de la *kinect*[^1]et l'aspect interactive de l'exposition. je pense que l'aspect de montré différente mémoire sur lles différent murs était vraiment intéressent.
-  j'ai aussi aimer la fonction étéractive de l'exposition. le fais que tu dois toucher le textile a différente endroit pour faire apparaitre les différent memoire sur les différent mur.
+ L'exposition utilisait bien les fonctions de la *kinect*[^1]et l' aspect rapide et lent du souvenir qui apparait.Les projection sur le mur était bien fait
+ ## EXPÉRIENCE PERSONELLE:##
+Bien aimé le concept! On a l' impression d' explorer les souvenirs qui se trouve dans notre cerveau. C' est une exposition qui est très relaxante grâce à la musique et les images.Le nom rhizomatique était bizarre mais il fait référence aux racine des plantes. Dans l'oeuvre on fait beaucoup le lien entre le temps et l' humain c' est plus scientifique! Il y a beaucoup d' images de cellules et de neurones. Je ne suis pas certain d' aimé le nom mais je comprends qu' il fait référence aux souvenirs enfouis comme les racines d' une plante! 
 <br>
 <br>
 <br>
