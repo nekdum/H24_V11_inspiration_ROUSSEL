@@ -51,7 +51,7 @@ Il y a deux étapes dans l' Effet papillon: lors de la première partie on inter
 <br>
 <br>
 <br>
-# Kigo #
+## Kigo ##
 <img src="media/photo/Kigo.png" height="250" width="250">
 
 ## expérience proposé ##
