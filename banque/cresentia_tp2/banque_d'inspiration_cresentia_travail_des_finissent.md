@@ -120,7 +120,8 @@ L' installation est facile à utiliser. Il y a certains sons aigus qui me déran
 
 ## Conclusion ##
 
-En conclusion, c' était vraiment cool de voir les projets des finissants. Je sui s impressionné par la qualité des projets qui ont étés présentés. conclure toute les exposition était vraiment cool et intérencete a voir. que sa soit la première foie que j'ai vu ou la deuxième foie quand il était améliorer et meilleure que la première foie. toute les exposition propoait des idée original et des concept différent l'un de l'autre. c'est sourtout voir l'évolution des projet lors du deuxième visionement que les projet on vraiment évoluer et que tu voir la passion et l'effort dans chaque projet. 
+En conclusion, c' était vraiment cool de voir les projets des finissants. Je suis impressionné par la qualité des projets qui ont étés présentés. Si il y avait plus de moyens financiers, les projet serait plus intéressant ou plus rapide comme le jeu de Kigo. 
+Tous les projets respectaient le concept d' évolutionl, et le visiteur fesait partie de l'expérience. J' ai aimé le nom et le logo des projets qui les représentait bien. Chaque installation m' a permit d' apprendre quelque chose et de vivre des expériences. Que se soit au niveau des capacité de ce  qu' on pouvait faire avec les logiciels ou des éléments de culture. Pour moi, cela me motive de voir ce que les autres étudiants ont fait. c' est aussi le fun de discuter avec les membres des groupes de leur projet et des difficultés qu' ils ont eu.En terminant, c'est bien d' inclure le plus de types de médias car cela permet des apprentissages pour les participants. 
 
 [^1]:appareil utilisé pour la motion capture dans les certains jeux vidéos. Popularisé par la console de jeux vidéos Xbox. kinetic veut dire cinétique et connect pour connecter.Cela permet de contrôler un objet  dans utiliser de manette
 
