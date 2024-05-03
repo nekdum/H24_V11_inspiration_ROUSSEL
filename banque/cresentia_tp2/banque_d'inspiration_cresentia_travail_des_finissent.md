@@ -42,7 +42,7 @@ L'exposition Effet Papillon démontre la conséquence de nos actions sur la croi
 
 <img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
 
-On a utilise des pole pour batir la structure.L'équipe a utilisé les lumières LED pour simuler l' effet du soleil, En tant que participant on apprend que nos actions sont importantes pour le développement de notre cyber pommier.Les aspects visuels sont importantes des images nous guide lors des interractions.Les sons aussi. La musique nous plonge dans un univers de la nature, il y avait des aussi des sons quand on prenait une action ce qui amplifiait le son. Les lumières guidaient aussi l' endroit ou on devait interragir et les lumières on étét utilisés pour creer des reliefs sur l' arbre.
+On a utilise des poles pour batir la structure du pommier.L'équipe a utilisé les lumières LED pour simuler l' effet du soleil, En tant que participant on apprend que nos actions sont importantes pour le développement de notre cyber pommier.Les aspects visuels sont importantes des images nous guide lors des interractions et les conséquences qui arrivent suite à nos actions sont projettés sur les murs de la salle.La musique nous plonge dans un univers de la nature, il y avait plusieurs étapes de au niveau de la gestion des sons, l' ambiance et des sons quand on prenait une action ce qui amplifiait le son. Les lumières guidaient aussi l' endroit ou on devait interragir et les lumières on été utilisés pour créer des reliefs sur l' arbre.
 
 <img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
 
