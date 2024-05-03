@@ -86,7 +86,7 @@ un son qui s' ajoute pour créer l'effet lointain qui rappelle le souvenir qui e
 
 
  L'exposition utilisait bien les fonctions de la *kinect*[^1]et l' aspect rapide et lent du souvenir qui apparait.Les projection sur le mur était bien fait
- ## EXPÉRIENCE PERSONELLE:##
+ ## EXPÉRIENCE PERSONELLE ##
 Bien aimé le concept! On a l' impression d' explorer les souvenirs qui se trouve dans notre cerveau. C' est une exposition qui est très relaxante grâce à la musique et les images.Le nom rhizomatique était bizarre mais il fait référence aux racine des plantes. Dans l'oeuvre on fait beaucoup le lien entre le temps et l' humain c' est plus scientifique! Il y a beaucoup d' images de cellules et de neurones. Je ne suis pas certain d' aimé le nom mais je comprends qu' il fait référence aux souvenirs enfouis comme les racines d' une plante! 
 <br>
 <br>
