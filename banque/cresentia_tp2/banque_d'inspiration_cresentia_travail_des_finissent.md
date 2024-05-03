@@ -3,7 +3,7 @@
 
 
 J' aimerais partagé mes impressions de ma visite à  l'exposition ***Crescentia*** consacré au projet des finissants du programme de multimédia. Crescentia, est un mot en latin qui signifie croissance. 
-*Dans cette exposition, il avait cinq projets différents qui ont mis le concept de l'évolution de l'avant.*
+*Dans cette exposition, il avait cinq projets différents qui ont mis le concept de l'évolution de l'avant.Je vais présenté chacun des projets. 
 
 
 <img src="media/photo/rhizomatique.png" height="100" width="100"> <img src="media/photo/Kigo.png" height="100" width="100">
