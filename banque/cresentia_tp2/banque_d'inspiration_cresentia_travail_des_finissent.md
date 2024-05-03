@@ -38,15 +38,15 @@ Un autre point positif de l' exposition est l' implication des gens. Ils sont le
 
 ## expérience proposé ##
 
-l'exposition Effet Papillon est vraiment une expérience unique et probablement la plus ambicieuse de toute les exposition de cresentia. en utilisant l'entierter du petit studio il on réussi a créer plusier object intéractif qui activait toute une partie du cycle de la vie. exposition disposait d'un poteau au millieu de la pièce avec plusieur petit écran qui montrait plusieur photo et changeais selon les stage différent stage du cycle de la vie. 
+L'exposition Effet Papillon démontre la conséquence de nos actions sur la croissance du pommier qui est la pièce centrale de cette exposition. Chaque action a un impact sur la croissance du pommier jusqu'à ce qu' il donne un pomme. Quand on entre dans la pièce, elle est sombre et il y a une lumière qui nous guide vers la première action à faire pour planter la graine en pesant sur un bouton. Par la suite, on fait des étapes en utilisant les petits écrans qui  montrent  plusieurs photos et qui changent selon les étapes que l' on fait et les stages du cycle de la vie. 
 
 <img src="media/photo/abre_2.jpeg" height="500" width="500"> <img src="media/photo/écran_arbre.jpeg" height="500" width="500">
 
-comme je l'ai dit précédament grace au différent objet intéractif qui était disposer tout partout dans la pièce et qui activait différent cycle et partie de l'évolution de leur histoire. avec un concept vraiment intéraisent et un histoire un peux developer. leur projet était vraiment ambicieux même si le projet finale avait quelque problème mais a la fin de la journée il nous ont quand même montrer les fonction éssentiel de leur projet.
+On a utilise des pole pour batir la structure.L'équipe a utilisé les lumières LED pour simuler l' effet du soleil, En tant que participant on apprend que nos actions sont importantes pour le développement de notre cyber pommier.Les aspects visuels sont importantes des images nous guide lors des interractions.Les sons aussi. La musique nous plonge dans un univers de la nature, il y avait des aussi des sons quand on prenait une action ce qui amplifiait le son. Les lumières guidaient aussi l' endroit ou on devait interragir et les lumières on étét utilisés pour creer des reliefs sur l' arbre.
 
 <img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
 
-avec des idée vraiment original et une petit histoire qui ajoute un petit charme a l'instalation. j'ai vraiment aimer l'utilisation des différent objet présent damns la piece et les différente idée derrière le concept de l'expositon.
+Il y a deux étapes dans l' Effet papillon: lors de la premiere partie on  interragi avec la structure pour la faire grandir. Dans la deuxième étape,on est ramené aux début de notre expérience afin de revivre  notre expérience sans interruption on apprend que nous sommes responsables de nos actions.LE visuel de la fin est le fun! 
 
 <br>
 <br>
