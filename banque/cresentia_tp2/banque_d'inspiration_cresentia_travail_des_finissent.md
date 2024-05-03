@@ -19,16 +19,16 @@ J' aimerais partagé mes impressions de ma visite à  l'exposition ***Crescentia
 
 ## expérience proposé ##
 
-Je vais débuté par mon exposition préféré: celle sur le canevas cosmique, elle était vraiment intéressante. On se retrouve dans un laboratoire, il y a des petites statuette. j'ai trouvé les fonctions intéractives vraiment amusante à utilisé. Les différentes statues qui crée des effets variés sur le canevas 
-cosmique est vraiment une bonne idée. J' ai aussi aimé que l'on utilise des petites statues pour representer chaque effet, cela aide beaucoup à l'immerssion de l'installation. 
+Je vais débuté par mon exposition préféré:  le canevas cosmique, elle était vraiment intéressante.C'est une simulation du système solaire en laboratoire.  Sur une table, il y a des petites statuettes et en les bougeant on crée des effets variés sur le canevas 
+cosmique ce qui est vraiment intéressant. J' ai aussi aimé que l'on utilise des petites statues pour représenter chaque effet, cela aide beaucoup à l'immersion de l'installation. 
 
 <img src="media/photo/statue_univere_2.jpeg" height="500" width="500">  <img src="media/photo/écran_univere.jpeg" height="500" width="500">
 
-en plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas fonctionnet avec une *kinect*[^1] qui est cacher en dessou de la table et qui détecte les différent qr code qui son placer sur la table.
+En plus d'avoir un écran qui montre la version de l'univer au complet en trois dimension un autre aspect qui aide a l'imersion. le canevas fonctionnet avec une *kinect*[^1] qui est cacher en dessous de la table et qui détecte les différent qr code qui son placé sur la table.On a aussi un tableau récapitulatif qui nous présente l' impact de nos mouvements avec les statuettes sur un écran. 
 
 <img src="media/photo/qr_univere.jpeg" height="500" width="500"> <img src="media/photo/derrière_univere.jpeg" height="500" width="500">
 
-Un autre point positif de l' exposition est l' implication des gens. Ils étaient présents pendant ma visite. J' ai eu la chance de discuter avec eux et d' en apprendre plus sur leur concept ainsi que les nombreuses idées qu' ils ont eu pendant le développement de leur projet. 
+Un autre point positif de l' exposition est l' implication des gens. Ils sont les scientifiques du laboratoire Ils étaient présents pendant ma visite. J' ai eu la chance de discuter avec eux et d' en apprendre plus sur leur concept ainsi que les nombreuses idées qu' ils ont eu pendant le développement de leur projet. 
 <br>
 <br>
 <br>
