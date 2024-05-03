@@ -46,7 +46,7 @@ On a utilise des pole pour batir la structure.L'équipe a utilisé les lumières
 
 <img src="media/photo/lumière_abre fermer.jpeg" height="500" width="500"> <img src="media/photo/lumière_arbre alumer.jpeg" height="500" width="500">
 
-Il y a deux étapes dans l' Effet papillon: lors de la premiere partie on  interragi avec la structure pour la faire grandir. Dans la deuxième étape,on est ramené aux début de notre expérience afin de revivre  notre expérience sans interruption on apprend que nous sommes responsables de nos actions.LE visuel de la fin est le fun! 
+Il y a deux étapes dans l' Effet papillon: lors de la première partie on interragi avec la structure pour la faire grandir. Dans la deuxième étape,on est ramené au début de notre expérience afin de revivre notre expérience sans interruption.LE visuel de la fin est le fun car on voit tout le cycle de vie. Ca devient une expérience éducative.  
 
 <br>
 <br>
